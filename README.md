@@ -64,9 +64,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring-boot/spring-boot-original-wordmark.svg" title="Spring" **alt="Spring Boot" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" **alt="docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="apachekafka" **alt="apachekafka" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="redhat" **alt="redhat" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" **alt="redis" width="40" height="40"/>
 </div>
 
 ---
