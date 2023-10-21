@@ -34,7 +34,7 @@
   
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode, GeeksforGeeks & read tech articles, documentations, & study about software architecture.
+- :zap: In my free time, I solve problems on Leetcode, GeeksforGeeks & read tech articles, documentations, fintech & study about software architecture.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-suhail-khursheed-280466190/)
   
@@ -60,6 +60,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring-boot/spring-boot-original-wordmark.svg" title="Spring" **alt="Spring Boot" width="40" height="40"/>
 </div>
 
 ---
