@@ -1,20 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+<br /> 
   
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sheikh-suhail-khursheed-280466190/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UC8aCw2FbE-E11gStsjG2TBw">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://www.facebook.com/sheikhsuhail1920">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <a href="https://www.instagram.com/sheikhsuhailkhursheed">
-      <img src="https://img.shields.io/badge/instagram-hotpink?style=for-the-badge&logo=instagram&logoColor=default" alt="Instagram Badge"/>
-    </a>
-  </div>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SheikhSuhail1920) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sheikhsuhailkhursheed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikh-suhail-khursheed-280466190) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UC8aCw2FbE-E11gStsjG2TBw) 
+
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there
@@ -78,9 +68,22 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheikhsuhail19&theme=dark&border=5242DD)](https://git.io/streak-stats)
-![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikhsuhail19&show_icons=true&theme=radical)
+![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikhsuhail19&show_icons=true&theme=radical&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsuhail19&langs_count=8&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/sheikhsuhail19/github-readme-stats)
+![](https://github-contributor-stats.vercel.app/api?username=sheikhsuhail19&limit=10&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sheikhsuhail19&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
