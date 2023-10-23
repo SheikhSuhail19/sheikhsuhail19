@@ -67,9 +67,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheikhsuhail19&theme=dark&border=5242DD)](https://git.io/streak-stats)
-![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikhsuhail19&show_icons=true&theme=radical&include_all_commits=true)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheikhsuhail19&theme=dark&border=5242DD)](https://git.io/streak-stats) ![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikhsuhail19&show_icons=true&theme=radical&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhsuhail19&langs_count=8&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/sheikhsuhail19/github-readme-stats)
 ![](https://github-contributor-stats.vercel.app/api?username=sheikhsuhail19&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
