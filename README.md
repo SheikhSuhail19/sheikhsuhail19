@@ -21,9 +21,7 @@
 ### :man_technologist: About Me :
   I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. :wave:
 - :telescope: I work as a Software Development Engineer, specializing in both frontend and backend technologies to create web applications.
-- 
 - :seedling: Exploring Technical Content Writing.
-  
 - :zap: During my free time, I enjoy solving challenging problems on LeetCode, reading tech articles, and diving into documentation related to programming, software engineering, and fintech.
 - 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-suhail-khursheed-280466190/)
